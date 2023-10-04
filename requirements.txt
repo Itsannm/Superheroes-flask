@@ -27,7 +27,6 @@ psycopg2-binary
 python-dateutil
 python-dotenv
 pytz
-referencing
 six
 SQLAlchemy
 typing_extensions
