@@ -11,7 +11,7 @@ defer==1.0.4
 distlib==0.3.0
 distro==1.0.4
 distro-info===1.0
-duplicity==0.7.17
+duplicity==1.2.3
 fasteners==0.14.1
 filelock==3.0.12
 Flask==1.1.1
