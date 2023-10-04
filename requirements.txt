@@ -44,7 +44,7 @@ paramiko==2.4.2
 pexpect==4.7.0
 Pillow==6.0.0
 pipenv==2018.11.26
-platformdirs==1.4.0
+platformdirs==3.11.0
 protobuf==3.6.1
 ptyprocess==0.6.0
 pycairo==1.16.2
